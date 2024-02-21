@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "649c8419713c7d866984af44"
+  },
+  "LShet": 12345,
+  "FIO": "Иванов Иван Иванович",
+  "Address": "г.Рязань ул.Комбайновая д2/7 кв.5",
+  "Services": [
+    {
+      "_id": 0,
+      "Name": "Холодная вода",
+      "MeasureUnit": "Куб.м",
+      "Consumption": 9.7,
+      "Rate": 20.8,
+      "Cost": 201.76,
+      "Payment": 0,
+      "Debt": 201.76
+    },
+    {
+      "_id": 1,
+      "Name": "Горячая вода",
+      "MeasureUnit": "Куб.м",
+      "Consumption": 4.8,
+      "Rate": 67,
+      "Cost": 321.6,
+      "Payment": 0,
+      "Debt": 321.6
+    },
+    {
+      "_id": 2,
+      "Name": "Электроэнергия",
+      "MeasureUnit": "Квт.ч",
+      "Consumption": 88.3,
+      "Rate": 1.81,
+      "Cost": 159.823,
+      "Payment": 0,
+      "Debt": 159.823
+    },
+    {
+      "_id": 3,
+      "Name": "Водоотведение",
+      "MeasureUnit": "Куб.м",
+      "Consumption": 14.53,
+      "Rate": 10.76,
+      "Cost": 156.343,
+      "Payment": 0,
+      "Debt": 156.343
+    }
+  ]
+}]
